@@ -176,6 +176,7 @@
 -   [investR](http://investr.co.in/)
 -   [Screener](https://www.screener.in/)
 -   [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
+-   [Tape](https://github.com/Yvsleyen00941/Tape) - Native desktop stock & ETF ticker living beside the macOS Dock with live updates and customizable display themes
 -   [Tickertape](https://www.tickertape.in/)
 -   [Trading View](https://in.tradingview.com/)
 -   [Quandl](https://www.quandl.com/)
